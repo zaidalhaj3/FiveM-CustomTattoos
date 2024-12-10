@@ -55,12 +55,12 @@
 	</Item>
 		<!-- Male Biker tattoos -->
 	<Item>
-	    <id value="92610"/>
-	    <cost value="50"/>
+	    <id value="92611"/>
+	    <cost value="60"/>
 	    <textLabel>BLAZINGTATTOO_TAT_004</textLabel>
 	    <collection>blazingtattoo_overlays</collection>
 	    <preset>blazingtattoo_04_A</preset>
-	    <zone>PDZ_HEAD</zone>
+	    <zone>PDZ_HEAD</spacezone>
 	    <eFacing>TATTOO_RIGHT</eFacing>
 	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
 	    <eFaction>TATTOO_MP_FM</eFaction>
@@ -68,11 +68,11 @@
 	</Item>
 	<!-- Female Biker tattoos -->
 	<Item>
-	    <id value="92642"/>
-	    <cost value="50"/>
+	    <id value="96260"/>
+	    <cost value="70"/>
 	    <textLabel>BLAZINGTATTOO_TAT_005</textLabel>
 	    <collection>blazingtattoo_overlays</collection>
-	    <preset>blazingtattoo_05_M</preset>
+	    <preset>blazingtattoo_09_M</preset>
 	    <zone>PDZ_HEAD</zone>
 	    <eFacing>TATTOO_RIGHT</eFacing>
 	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
@@ -80,11 +80,11 @@
 	    <lockHash>CUSTOM_TATTOOS</lockHash>
 	</Item>		
 	<Item>
-	    <id value="92642"/>
-	    <cost value="50"/>
+	    <id value="96288"/>
+	    <cost value="90"/>
 	    <textLabel>BLAZINGTATTOO_TAT_006</textLabel>
 	    <collection>blazingtattoo_overlays</collection>
-	    <preset>blazingtattoo_06_M</preset>
+	    <preset>blazingtattoo_08_M</preset>
 	    <zone>PDZ_HEAD</zone>
 	    <eFacing>TATTOO_RIGHT</eFacing>
 	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
@@ -92,7 +92,7 @@
 	    <lockHash>CUSTOM_TATTOOS</lockHash>
 	</Item>
 	<Item>
-	    <id value="92642"/>
+	    <id value="92710"/>
 	    <cost value="50"/>
 	    <textLabel>BLAZINGTATTOO_TAT_007</textLabel>
 	    <collection>blazingtattoo_overlays</collection>
@@ -152,11 +152,11 @@
 	    <lockHash>CUSTOM_TATTOOS</lockHash>
 	</Item>							
 	<Item>
-	    <id value="92642"/>
-	    <cost value="50"/>
+	    <id value="92790"/>
+	    <cost value="120"/>
 	    <textLabel>BLAZINGTATTOO_TAT_012</textLabel>
 	    <collection>blazingtattoo_overlays</collection>
-	    <preset>blazingtattoo_12_M</preset>
+	    <preset>blazingtattoo_22_M</preset>
 	    <zone>PDZ_HEAD</zone>
 	    <eFacing>TATTOO_RIGHT</eFacing>
 	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
